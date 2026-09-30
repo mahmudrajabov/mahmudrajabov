@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mahmud 👋
 
-<!--
-**mahmudrajabov/mahmudrajabov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Frontend Developer | AI Developer
 
-Here are some ideas to get you started:
+I build responsive, interactive and user-friendly web applications with modern frontend technologies and AI-powered features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML5, CSS3, JavaScript
+- React and responsive design
+- Git and GitHub
+- REST API integration
+- AI assistants and automation
+- Netlify deployment
+- LocalStorage and frontend state management
+
+## Featured Projects
+
+- [TrackFlow — Delivery Dashboard](https://mahmud-track.netlify.app/)
+- [ShopFlow — Online Store](https://mahmud-shopflow.netlify.app/)
+- [CareerAI — CV Assistant](https://mahmud-careerai.netlify.app/)
+- [Evently — Event Booking](https://evently-booking.netlify.app/)
+- [Miyov — Cat Care Website](https://miyov.netlify.app/)
+- [PlayMix — Media Hub](https://playmix11.netlify.app/)
+- [TechGuide — Knowledge Website](https://techguide11.netlify.app/)
+
+## Contact
+
+- Telegram: [@mahmudre](https://t.me/mahmudre)
+- GitHub: [mahmudrajabov](https://github.com/mahmudrajabov)
